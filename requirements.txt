@@ -39,7 +39,7 @@ prometheus-client==0.5.0
 prompt-toolkit==2.0.8
 ptyprocess==0.6.0
 pycsa==0.1.3
-Pygments==2.3.1
+Pygments==2.7.4
 pyparsing==2.3.1
 pyswarm==0.6
 python-dateutil==2.8.0
